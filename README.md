@@ -1,10 +1,9 @@
 # Stock-Market-Analysis-by-Sector
 
 ### 📈 Project Overview
-----
 This project conducts comprehensive analysis of stock market performance across various industry sectors to support sustainable investment decision-making. Using Exploratory Data Analysis (EDA) and statistical inference, we investigate sector behaviors, correlations, and performance metrics to identify promising opportunities for long-term investing.
 
----
+
 
 ### 🎯 Objectives
 - **Correlation Analysis**: Analyze correlations between industry sectors' stock returns  
@@ -12,15 +11,13 @@ This project conducts comprehensive analysis of stock market performance across 
 - **Risk Assessment**: Assess sectors' risk-adjusted returns over a 5-year period  
 - **Investment Insights**: Identify stable and promising sectors for sustainable investing  
 
----
+
 
 ### 🔍 Research Questions
-
 1. Which industry sectors exhibit the strongest correlations in their stock price returns?  
 2. How did different sectors perform during key COVID-19 periods (pre-pandemic, pandemic onset, and recovery)?  
 3. Which industry sectors offer the best risk-adjusted returns over 5 years?  
 
----
 
 ### 🛠️ Tools & Technologies
 
@@ -28,9 +25,7 @@ This project conducts comprehensive analysis of stock market performance across 
 - **Data Analysis**: pandas, numpy  
 - **Visualization**: matplotlib, seaborn  
 - **Statistical Analysis**: scipy, statsmodels
-
----
-
+- 
 ### 📊 Analysis Methodology
 #### Exploratory Data Analysis (EDA)
 
