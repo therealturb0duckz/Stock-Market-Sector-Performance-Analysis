@@ -1,7 +1,7 @@
 # Stock-Market-Analysis-by-Sector
 
 ### 📈 Project Overview
---------------------  
+--
 This project conducts comprehensive analysis of stock market performance across various industry sectors to support sustainable investment decision-making. Using Exploratory Data Analysis (EDA) and statistical inference, we investigate sector behaviors, correlations, and performance metrics to identify promising opportunities for long-term investing.
 
 ---
