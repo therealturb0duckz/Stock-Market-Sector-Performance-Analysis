@@ -21,11 +21,11 @@ This project conducts comprehensive analysis of stock market performance across 
 
 ### 🛠️ Tools & Technologies
 
-- **Python**  
+- **Python** 3.10.3
 - **Data Analysis**: pandas, numpy  
 - **Visualization**: matplotlib, seaborn  
 - **Statistical Analysis**: scipy, statsmodels
-- 
+  
 ### 📊 Analysis Methodology
 #### Exploratory Data Analysis (EDA)
 
