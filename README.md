@@ -42,3 +42,10 @@ This project conducts comprehensive analysis of stock market performance across 
 | Q2 | How did different sectors perform during key COVID-19 periods (pre-pandemic, pandemic onset, and recovery)? | Kruskal-Wallis test  | Compare sector returns across different COVID-19 periods (non-parametric test for 3+ groups) |
 | Q3 | Which industry sectors offer the best risk-adjusted returns over 5 years                                    | Kruskal-Wallis test  | Compare Sharpe ratios across sectors to identify differences in risk-adjusted performance    |
 
+### 🗂️ Data Sources
+- [Kaggle] https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset
+- [GitHub] https://github.com/datasets/s-and-p-500-companies
+
+### 📜 About The Project
+This project was developed as part of a data science coursework with a focus on practical financial analysis applications.
+I plan to extend it into another project that explores my personal interest in finance in the future.
