@@ -44,28 +44,27 @@ This project conducts comprehensive analysis of stock market performance across 
 
 ### 📊 Key Findings (To be filled)
 
-#### Correlation Analysis (Q1)
+#### (Q1) Correlation Analysis 
 - **Strongest correlations**: [Sector A - Sector B]: r = 0.XX
 - **Weakest correlations**: [List sectors]
 - **Insight**: Sector X and Sector Y show high correlation (r > 0.7)
 
-#### COVID-19 Impact (Q2)
+#### (Q2) COVID-19 Impact 
 | Period | Best Performer | Worst Performer | Avg Return |
 |--------|----------------|-----------------|------------|
 | Pre-pandemic | Sector X | Sector Y | +X% |
 | Pandemic onset | Sector X  | Sector Y | -X% |
 | Recovery | Sector X  | Sector Y | +X% |
 
-### Risk-Adjusted Returns (Q3)
+#### (Q3) Risk-Adjusted Returns 
 - **Highest Sharpe Ratio**: Technology 
 - **Most Stable**: 
 - **Recommendation**: 
 
-### Key Visualizations (To be filled)
+### 📊 Key Visualizations (To be filled)
 
 #### Sector Correlation Heatmap
 ![Correlation Matrix](results/figures/correlation_heatmap.png)
-
 #### COVID-19 Period Performance
 ![Period Comparison](results/figures/covid_performance.png)
 
