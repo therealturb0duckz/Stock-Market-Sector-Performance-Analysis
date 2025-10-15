@@ -66,7 +66,7 @@ This project conducts comprehensive analysis of stock market performance across 
 #### Sector Correlation Heatmap
 ![Correlation Matrix](results/figures/correlation_heatmap.png)
 #### COVID-19 Period Performance
-![Period Comparison](results/figures/covid_performance.png)
+![Period Comparison](results/figures/sector_performance_during_covid19.png)
 
 ### 🗂️ Data Sources
 - [Kaggle] https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset
