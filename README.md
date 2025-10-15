@@ -50,11 +50,11 @@ This project conducts comprehensive analysis of stock market performance across 
 - **Insight**: Sector X and Sector Y show high correlation (r > 0.7)
 
 #### (Q2) COVID-19 Impact 
-| Period | Best Performer | Worst Performer | Avg Return |
-|--------|----------------|-----------------|------------|
-| Pre-pandemic | Sector X | Sector Y | +X% |
-| Pandemic onset | Sector X  | Sector Y | -X% |
-| Recovery | Sector X  | Sector Y | +X% |
+| Period | Best Performer | Worst Performer |
+|--------|----------------|-----------------|
+| Pre-pandemic | Sector X (+X%)| Sector Y (+X%) |
+| Pandemic onset | Sector X (+X%) | Sector Y (+X%) |
+| Recovery | Sector X (+X%) | Sector Y (+X%) |
 
 #### (Q3) Risk-Adjusted Returns 
 - **Highest Sharpe Ratio**: Technology 
