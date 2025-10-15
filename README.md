@@ -42,6 +42,33 @@ This project conducts comprehensive analysis of stock market performance across 
 | Q2 | How did different sectors perform during key COVID-19 periods (pre-pandemic, pandemic onset, and recovery)? | Kruskal-Wallis test  | Compare sector returns across different COVID-19 periods (non-parametric test for 3+ groups) |
 | Q3 | Which industry sectors offer the best risk-adjusted returns over 5 years                                    | Kruskal-Wallis test  | Compare Sharpe ratios across sectors to identify differences in risk-adjusted performance    |
 
+### 📊 Key Findings (To be filled)
+
+#### Correlation Analysis (Q1)
+- **Strongest correlations**: [Sector A - Sector B]: r = 0.XX
+- **Weakest correlations**: [List sectors]
+- **Insight**: Sector X and Sector Y show high correlation (r > 0.7)
+
+#### COVID-19 Impact (Q2)
+| Period | Best Performer | Worst Performer | Avg Return |
+|--------|----------------|-----------------|------------|
+| Pre-pandemic | Sector X | Sector Y | +X% |
+| Pandemic onset | Sector X  | Sector Y | -X% |
+| Recovery | Sector X  | Sector Y | +X% |
+
+### Risk-Adjusted Returns (Q3)
+- **Highest Sharpe Ratio**: Technology 
+- **Most Stable**: 
+- **Recommendation**: 
+
+### Key Visualizations (To be filled)
+
+#### Sector Correlation Heatmap
+![Correlation Matrix](results/figures/correlation_heatmap.png)
+
+#### COVID-19 Period Performance
+![Period Comparison](results/figures/covid_performance.png)
+
 ### 🗂️ Data Sources
 - [Kaggle] https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset
 - [GitHub] https://github.com/datasets/s-and-p-500-companies
