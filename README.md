@@ -45,28 +45,30 @@ This project conducts comprehensive analysis of stock market performance across 
 ### 📊 Key Findings (To be filled)
 
 #### (Q1) Correlation Analysis 
-- **Strongest correlations**: [Sector A - Sector B]: r = 0.XX
-- **Weakest correlations**: [List sectors]
-- **Insight**: Sector X and Sector Y show high correlation (r > 0.7)
+- **Strongest correlations**: [Financials - Industrials]: r = 0.852745
+- **Weakest correlations**: [Energy - Real Estate]: r = 0.214914
+- **Insight**: Although Financials and Industrials show the highest correlation, both sectors are also strongly correlated with others—for example, Industrials with Materials (0.8332) and Financials with Materials (0.7937).
 
 #### (Q2) COVID-19 Impact 
 | Period | Best Performer | Worst Performer |
 |--------|----------------|-----------------|
-| Pre-pandemic | Sector X (+X%)| Sector Y (+X%) |
-| Pandemic onset | Sector X (+X%) | Sector Y (+X%) |
-| Recovery | Sector X (+X%) | Sector Y (+X%) |
+| Pre-pandemic | Information Technology (+X%)| Energy (+X%) |
+| Pandemic onset | Information Technology (+X%) | Energy (+X%) |
+| Recovery | Information Technology (+X%) | Energy (+X%) |
 
 #### (Q3) Risk-Adjusted Returns 
-- **Highest Sharpe Ratio**: Technology 
-- **Most Stable**: 
-- **Recommendation**: 
+- **Highest Sharpe Ratio**: Information Technology (1.014457)
+- **Lowest Sharpe Ratio**: Utilities (0.529603 )
+- **Recommendation**: Information Technology showed the highest risk-adjusted returns. It suggests that higher allocation to this sector could enhance long-term growth.
 
-### 📊 Key Visualizations (To be filled)
+### 📊 Key Visualizations 
 
 #### Sector Correlation Heatmap
 ![Correlation Matrix](results/figures/correlation_heatmap.png)
 #### COVID-19 Period Performance
 ![Period Comparison](results/figures/sector_performance_during_covid19.png)
+#### Sharpe Ratio
+![Period Comparison](results/figures/sector_sharpe_ratios3.png)
 
 ### 🗂️ Data Sources
 - [Kaggle] https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset
