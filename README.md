@@ -52,13 +52,13 @@ This project conducts comprehensive analysis of stock market performance across 
 #### (Q2) COVID-19 Impact 
 | Period | Best Performer | Worst Performer |
 |--------|----------------|-----------------|
-| Pre-pandemic | Information Technology (+X%)| Energy (+X%) |
-| Pandemic onset | Information Technology (+X%) | Energy (+X%) |
-| Recovery | Information Technology (+X%) | Energy (+X%) |
+| Pre-pandemic | Information Technology (+40.07%)| Energy (-11.57%) |
+| Pandemic onset | Information Technology (+17.98%) | Energy (-19.33%) |
+| Recovery | Information Technology (+73.28%) | Communication Services (+26.48%) |
 
 #### (Q3) Risk-Adjusted Returns 
 - **Highest Sharpe Ratio**: Information Technology (1.014457)
-- **Lowest Sharpe Ratio**: Utilities (0.529603 )
+- **Lowest Sharpe Ratio**: Utilities (0.529603)
 - **Recommendation**: Information Technology showed the highest risk-adjusted returns. It suggests that higher allocation to this sector could enhance long-term growth.
 
 ### 📊 Key Visualizations 
